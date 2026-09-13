@@ -13,7 +13,7 @@
 </td>
 <td width="70%" valign="middle">
 
-### Hi, I'm Sonith 👋
+### Hi, I'm Vongsochnith Pov 👋
 
 I build the product between the screens and the systems. Based in **Bangkok**, I develop mobile applications, web platforms, backend APIs and operational tools — working across the full product lifecycle, from interface implementation and service integration to data modeling, business rules, testing and release preparation.
 
